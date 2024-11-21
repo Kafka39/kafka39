@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Nunito&size=24&duration=2000&pause=100&color=BDD9BF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=75&lines=cramatsu;%E3%80%8Cto+live+is+to+create%E3%80%8D"/>
+<pre>
+  🔥 JavaScript • C# • React
+  ⚙️ SQL • Git
+  ❤️ Coding • Learning • Problem Solving
+</pre>
 
-<!--
-**Kafka39/kafka39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+who-am-i --name="Denis" --location Russia --occupation Student
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
