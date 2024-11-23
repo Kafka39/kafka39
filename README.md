@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/avatar3.gif" style="border-radius: 30%; width: 150px; height: 150px;" alt="Avatar">
+<img src="./assets/avatar.gif" style="border-radius: 30%; width: 150px; height: 150px;" alt="Avatar">
 
 <pre>
   🔥 JavaScript • C# • React
