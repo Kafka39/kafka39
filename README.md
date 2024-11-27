@@ -3,7 +3,7 @@
 
 <pre>
   🔥 JavaScript • C# • React
-  ⚙️ SQL • Git
+  ⚙️ PostgreSQL • Git
   ❤️ Coding • Learning • Problem Solving
 </pre>
 
