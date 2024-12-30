@@ -3,7 +3,7 @@
 <pre>
   🔥Frontend:
   JavaScript
-  React • React • Hook • Form
+  React • React Hook Form
   Tailwind CSS • SCSS • CSS Modules
   Prettier • ESLint
 
