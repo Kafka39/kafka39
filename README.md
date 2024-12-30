@@ -1,9 +1,18 @@
 <div align="center">
-<img src="./assets/avatar.gif" style="border-radius: 30%; width: 150px; height: 150px;" alt="Avatar">
 
 <pre>
-  🔥 JavaScript • C# • React
-  ⚙️ PostgreSQL • Git
+  🔥Frontend:
+  JavaScript
+  React • React • Hook • Form
+  Tailwind CSS • SCSS • CSS Modules
+  Prettier • ESLint
+
+  ⚙️Backend:
+  C# (Core)
+  Express.js
+  PostgreSQL • MongoDB
+  Mongoose
+
   ❤️ Coding • Learning • Problem Solving
 </pre>
 
